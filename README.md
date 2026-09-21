@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Koteswara Rao Rayi 👋
 
-<!--
-**koteswararaorayi/koteswararaorayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with ~4 years building enterprise web applications.
 
-Here are some ideas to get you started:
+**What I do:**
+- 🖥️ Frontend: React.js — dynamic UIs, server-side pagination, large dataset handling
+- ⚙️ Backend: Node.js/Express, Python/Django — REST APIs, RBAC, secure architecture
+- ☁️ Cloud: AWS (EC2, RDS, S3)
+- 🤖 AI: Claude API integration for LLM-assisted workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A result I'm proud of:**  
+Optimised a production system handling 6,700+ records — reduced page load from ~3 minutes to under 20 seconds (~80% improvement).
+
+**Currently building:**  
+An end-to-end admin platform for a Canada-based print business, replacing WhatsApp/call-based workflows with a structured, role-based system.
+
+📫 koteswararaorayi@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/koteswararao-rayi-18497699)
